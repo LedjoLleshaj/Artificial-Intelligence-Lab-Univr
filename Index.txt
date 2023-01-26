@@ -1,0 +1,23 @@
+Lesson 1: Uninformed Search Strategies
+        Assignment 1: Breadth-First Search (BFS)
+                TreeSearch
+                GraphSearch
+        Assignment 2: Depth-Limited Search (DLS) and Iterative Deepening depth-first Search (IDS)
+                Recursive_DLS_GraphSearch
+                Recursive_DLS_TreeSearch
+                
+Lesson 2: Informed Search Strategies
+        Uniform-Cost Search (UCS)
+        Assignment 1: Greedy Best-First Search
+                TreeSearch
+                GraphSearch
+        Assignment 2: A* Search
+                TreeSearch
+                GraphSearch
+Lesson 3:  Markov Decision Process
+        Assignment 1: Value Iteration Algorithm
+        Assignment 2: Policy Iteration Algorithm
+Lesson 4:  Reinforcement Learning
+        Assignment 1: Q-Learning
+        Assignment 2: SARSA
+        
